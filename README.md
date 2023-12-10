@@ -13,6 +13,6 @@ Develop an issue-tracking system tailored for IIT, leveraging a database to secu
 
 **TicketComment.java:** This Java class handles comments associated with tickets in the IIT trouble ticket system. It manages the interactions related to the remarks linked to individual tickets.
 
-Users are empowered with essential capabilities, enabling them to seamlessly navigate the system by selecting tickets and effortlessly viewing their details. Additionally, they can conveniently add new tickets, fostering a streamlined process for issue reporting within the IIT trouble ticket system.
+Users are empowered with essential capabilities, enabling them to seamlessly navigate the system by selecting tickets and effortlessly viewing their details.
 
 Administrators wield an enhanced level of control and responsibility. Apart from opening and closing ticket statuses, they possess the authority to create new tickets and update existing ones, including modifying ticket descriptions. Moreover, administrators hold the privilege of updating and managing comments associated with tickets, ensuring a comprehensive and efficient management of communication within the system.
